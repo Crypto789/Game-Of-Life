@@ -1,0 +1,11 @@
+C:\Users\Santi\source\repos\Project_Portfolio\Project_Portfolio\bin\Debug\Project_Portfolio.exe.config
+C:\Users\Santi\source\repos\Project_Portfolio\Project_Portfolio\bin\Debug\Project_Portfolio.exe
+C:\Users\Santi\source\repos\Project_Portfolio\Project_Portfolio\bin\Debug\Project_Portfolio.pdb
+C:\Users\Santi\source\repos\Project_Portfolio\Project_Portfolio\obj\Debug\Project_Portfolio.Form1.resources
+C:\Users\Santi\source\repos\Project_Portfolio\Project_Portfolio\obj\Debug\Project_Portfolio.Properties.Resources.resources
+C:\Users\Santi\source\repos\Project_Portfolio\Project_Portfolio\obj\Debug\Project_Portfolio.csproj.GenerateResource.cache
+C:\Users\Santi\source\repos\Project_Portfolio\Project_Portfolio\obj\Debug\Project_Portfolio.exe
+C:\Users\Santi\source\repos\Project_Portfolio\Project_Portfolio\obj\Debug\Project_Portfolio.pdb
+C:\Users\Santi\source\repos\Project_Portfolio\Project_Portfolio\obj\Debug\Project_Portfolio.ModalDialog.resources
+C:\Users\Santi\source\repos\Project_Portfolio\Project_Portfolio\obj\Debug\Project_Portfolio.csprojAssemblyReference.cache
+C:\Users\Santi\source\repos\Project_Portfolio\Project_Portfolio\obj\Debug\Project_Portfolio.csproj.CoreCompileInputs.cache
